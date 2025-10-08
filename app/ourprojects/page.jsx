@@ -25,16 +25,16 @@ export default function page() {
       </p>
       <div className=' w-[90%] md:w-[70%] bg-[#EFF4FF] mx-auto md:flex  justify-around  gap-5  items-center mt-15 rounded-xl pt-2 pb-80  md:pb-50 overflow-hidden  -translate-y-5'>
         <div className='w-[45%] mt-6 md:mx-0 mx-2'>
-          <h3 className='text-3xl font-semibold w-90 my-4'>اكتشف حرية تأجير السيارات مع Prestige.</h3>
-          <p className='w-80 md:w-[499px]'>يقدّم Prestige تجربة فاخرة وسهلة لتأجير السيارات مدعومة بمنصة Drivewise، المنصة الشاملة التي تُمكّنك من إدارة كل جوانب عملك بسهولة وذكاء.
+          <h3 className='text-3xl font-semibold w-80 md:w-90 my-4'>اكتشف حرية تأجير السيارات مع Prestige.</h3>
+          <p className='w-75 md:w-[499px]'>يقدّم Prestige تجربة فاخرة وسهلة لتأجير السيارات مدعومة بمنصة Drivewise، المنصة الشاملة التي تُمكّنك من إدارة كل جوانب عملك بسهولة وذكاء.
 من خلال أدوات متقدمة لإدارة التسويق، والتواصل، والعمليات المالية، والشحن، تمنحك Drivewise السيطرة الكاملة على كل التفاصيل — من الحجوزات عبر الإنترنت إلى تتبع السيارات وإصدار الفواتير تلقائيًا.</p>
         </div>
        <div className='bg-red-400 w-[45%] relative translate-y-20 md:translate-y-0 '> 
-          <div className='absolute -bottom-200 rounded-2xl md:-translate-x-30 md:h-[880px] w-[230px] md:w-[343px]  -translate-x-25'>
+          <div className='absolute -bottom-200 rounded-2xl md:-translate-x-30 md:h-[880px] w-[230px] md:w-[343px]  -translate-x-19'>
             
             <img src="./46e1c0cb78f01110ace94698114357ed308cda5a.png"className='h-[880px]  md:w-[343px] rounded-xl'  alt="" />
           </div>
-          <div className=' absolute top-8 right-60 overflow-hidden w-[200px] md:w-[343px] md:translate-x-70 rounded-2xl  translate-x-50'>
+          <div className=' absolute top-8 right-60 overflow-hidden w-[200px] md:w-[343px] md:translate-x-70 rounded-2xl  translate-x-53'>
             
             <img src="./46e1c0cb78f01110ace94698114357ed308cda5a.png" className=' -translate-y-140 h-[880px] w-full' alt="" />
           </div>
